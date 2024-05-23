@@ -102,19 +102,19 @@ body{
     width: 1440px;
 }
 .untitled147-20240417144503-1-icon {
-     position: absolute;
-    top: 200px;
-    left: 800px;
-    width: 500px;
-    height: 531px;
+  position: absolute;
+    top: 250px;
+    left: 750px;
+    width: 600px;
+    height: 600px;
     object-fit: cover;
 }
 .discover-unparalleled-precisio {
     position: absolute;
-    top: 337px;
+    top: 390px;
     left: 40px;
     line-height: 28px;
-    color: white;
+    color: #d7d7ec;
     display: flex;
     align-items: center;
     width: 706px;
