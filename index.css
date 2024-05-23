@@ -122,7 +122,7 @@ body{
 }
 .a-string-based-automated {
     position: absolute;
-    top: 307px;
+    top: 250px;
     left: 170px;
     font-weight: 500;
     display: inline-block;
@@ -130,7 +130,7 @@ body{
 }
 .lv-0-20240522064804-1 {
     position: absolute;
-    top: 566px;
+    top: 500px;
     left: 281px;
     box-shadow: 0px 0px 5px 3px rgba(255, 184, 252, 0.5);
     border: 3px solid #000;
@@ -286,9 +286,9 @@ body{
     font-family: Inika;
 }
 .about-the-machine {
-    position: absolute;
+   position: absolute;
     top: 1158px;
-    left: 50px;
+    left: 180px;
     font-size: 36px;
     display: inline-block;
     font-weight: 900;
