@@ -286,14 +286,13 @@ body{
     font-family: Inika;
 }
 .about-the-machine {
-   position: absolute;
-    top: 1158px;
-    left: 180px;
-    font-size: 36px;
-    display: inline-block;
-    font-weight: 900;
-    width: 434px;
-    height: 44px;
+    position: absolute;
+    top: 113px;
+    left: 223px;
+    text-decoration: underline;
+    letter-spacing: -0.01em;
+    font-weight: 600;
+    cursor: pointer;
 }
 .team-members {
     position: absolute;
