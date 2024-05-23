@@ -293,6 +293,7 @@ body{
     letter-spacing: -0.01em;
     font-weight: 600;
     cursor: pointer;
+    display: inline-block;
 }
 .team-members {
     position: absolute;
