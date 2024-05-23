@@ -87,8 +87,8 @@ body{
     font-family: Montserrat;
 }
 .automated-soap-cutting {
-    position: absolute;
-    top: 220px;
+     position: absolute;
+    top: 190px;
     left: 0px;
     font-size: 80px;
     letter-spacing: -0.03em;
@@ -102,10 +102,10 @@ body{
     width: 1440px;
 }
 .untitled147-20240417144503-1-icon {
-    position: absolute;
-    top: 419px;
-    left: 528px;
-    width: 848px;
+     position: absolute;
+    top: 200px;
+    left: 800px;
+    width: 500px;
     height: 531px;
     object-fit: cover;
 }
